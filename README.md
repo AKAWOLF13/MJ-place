@@ -1,6 +1,6 @@
 # MJ-place
 <h1> WELCOME MY WEB<h1>
-
+<link rel="stylesheet" type="text/css" href="menu.css">
 <nav id="topMenu">
       <ul>
         <li><a class="menuLink" href="http://akawolf13.github.io/MJ-place/일기장.html">일정</a></li>
