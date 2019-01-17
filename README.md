@@ -1,5 +1,3 @@
-# MJ-place
-<h1> WELCOME MY WEB<h1>
 <link rel="stylesheet" type="text/css" href="menu.css">
 <nav id="topMenu">
       <ul>
@@ -9,3 +7,7 @@
         <li><a class="menuLink" href="#">지역</a></li>
       </ul>
     </nav>
+# MJ-place
+<h1> WELCOME MY WEB<h1>
+
+
