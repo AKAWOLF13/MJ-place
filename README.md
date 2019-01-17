@@ -7,7 +7,6 @@
         <li><a class="menuLink" href="#">지역</a></li>
       </ul>
     </nav>
-# MJ-place
-<h1> WELCOME MY WEB<h1>
+<h1> WELCOME MY WEB This is MJ-place<h1>
 
 
