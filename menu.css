@@ -1,6 +1,10 @@
 body{
   display:inline-flex;
 }
+#logo{
+  width:200px;
+  height:80px;
+}
 #topMenu{
   height: 30px;
   width: 850px;
